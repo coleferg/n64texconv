@@ -1,0 +1,11 @@
+astroid==2.4.2
+isort==5.6.4
+lazy-object-proxy==1.4.3
+mathutils==2.81.2
+mccabe==0.6.1
+Pillow==8.0.0
+pkg-resources==0.0.0
+pylint==2.6.0
+six==1.15.0
+toml==0.10.1
+wrapt==1.12.1
